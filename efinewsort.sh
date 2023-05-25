@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #------------------------------------------------------------------------------#
-#  Name: efibootsort.sh
+#  Name: efinewsort.sh
 #  Date: 2022.11.01
 #  Description:
 #   Script for sorting the boot order in EFI 
